@@ -4,7 +4,7 @@
 #define MOD_NAME_BEAUTIFIED QUOTE(MPU5 TFAR Radio)
 
 #define AUTHOR "Cassius"
-#define URL "https://youtu.be/dQw4w9WgXcQ?si=GeZK03k_Fk-V8bW6"
+#define URL "https://github.com/Tarquin-Cassius/MPU5-Radio"
 
 #include "\x\tqc\addons\core\script_version.hpp"
 

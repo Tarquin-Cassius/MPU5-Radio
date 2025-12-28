@@ -1,0 +1,13 @@
+name = "MPU5 TFAR Radio"
+author = "Cassius"
+prefix = "tqc"
+mainprefix = "x"
+
+[version]
+path = "addons/core/script_version.hpp" 
+git_hash = 0
+
+[files]
+include = [
+    "README.md",
+]
